@@ -1,0 +1,48 @@
+img{
+	width: :100px ;
+	height: 150px;
+	margin: auto;
+	display: block;
+	border-radius: 150%;
+	border: 5px solid #FFFFFF ;
+	
+
+
+}
+
+body {
+
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: 90%  auto;
+background-color: rgb(255,255,255);
+
+
+}
+
+@import url("https://fonts.googleapis.com/css?family=Mystery+Quest");
+h1{
+   font-family: "Mystery Quest", cursive;
+   font-size: 180%;
+   color:white;
+   text-align: center;
+   
+
+}
+h3{
+ font-family: "Mystery Quest", cursive;
+   font-size: 100%;
+   color:white;
+   text-align: center;
+   }
+
+
+
+
+
+
+
+
+
+
